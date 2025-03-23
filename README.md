@@ -110,6 +110,6 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 
 ## 👤 Yazar
 
-**Buğra Bey Mühendis**  
+**BAU**  
 AI | NLP | LLM Training | Hugging Face & Transformers  
 GitHub: [github.com/NoirZangetsu](https://github.com/NoirZangetsu)
