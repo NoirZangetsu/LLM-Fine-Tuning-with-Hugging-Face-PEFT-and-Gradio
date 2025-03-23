@@ -113,3 +113,6 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 **BAU**  
 AI | NLP | LLM Training | Hugging Face & Transformers  
 GitHub: [github.com/NoirZangetsu](https://github.com/NoirZangetsu)
+
+## 👤 Referans
+GitHub: [github.com/alicankiraz1](https://github.com/alicankiraz1/LLMRipper?trk=feed-detail_main-feed-card_feed-article-content)
